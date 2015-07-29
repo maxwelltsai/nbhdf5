@@ -1,4 +1,3 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -6,12 +5,6 @@
 	<meta name="generator" content="LibreOffice 4.2.2.1 (MacOSX)">
 	<meta name="created" content="20150729;164323910098000">
 	<meta name="changed" content="20150729;164426658219000">
-	<style type="text/css">
-	<!--
-		@page { margin: 0.79in }
-		p { margin-bottom: 0.1in; line-height: 120% }
-	-->
-	</style>
 </head>
 <body lang="en-US" dir="ltr">
 <p style="margin-bottom: 0in; line-height: 100%"><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 11pt"><span style="text-decoration: none">HDF5
