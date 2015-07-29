@@ -176,7 +176,7 @@ and output frequencies, respectively.</span></font></font></font></p>
 QUESTIONS &amp; FEEDBACK</span></font></font></font></p>
 <p style="margin-bottom: 0in; line-height: 100%"><font color="#000000"><span style="text-decoration: none">
    <font face="Helvetica, serif"><font size="2" style="font-size: 11pt">Please
-contact Maxwell Xu CAI: maxwellemail@gmail.com</span></font></font></font></p>
+contact Maxwell Xu CAI: maxwellemail_at_gmail.com</span></font></font></font></p>
 <p style="margin-bottom: 0in; line-height: 100%; text-decoration: none">
 <br>
 </p>
